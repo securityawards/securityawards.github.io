@@ -1,15 +1,15 @@
-HTTrack3.48-22+htsswf+htsjava launched on Tue, 01 May 2018 06:44:17 at http://6513.tilda.ws/page2756076.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://6513.tilda.ws/page2756076.html -O1 "C:\My Web Sites\http___6513.tilda.ws_page2756076.html" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.48-22+htsswf+htsjava launched on Tue, 01 May 2018 09:12:17 at http://6513.tilda.ws/page2756076.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://6513.tilda.ws/page2756076.html -O1 "C:\My Web Sites\DES32" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-06:44:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild6638-3362-4639-a431-623666343431/-/resize/20x/design.jpg (from 6513.tilda.ws/page2756076.html)
-06:44:37	Error: 	"Not Found" (404) at link 6513.tilda.ws/tilda/popup/ (from tilda.ws/project635029/tilda-blocks-2.7.js?t=1525149672)
-06:44:43	Error: 	"Not Found" (404) at link 6513.tilda.ws/page2732558.html (from 6513.tilda.ws/)
-06:44:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3462-3363-4134-b930-663064623562/-/resize/20x/kaufmannmercantile290705.jpg (from 6513.tilda.ws/page2739665.html)
+09:12:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/img/tildacopy.png (from 6513.tilda.ws/page2756076.html)
+09:12:35	Error: 	"Not Found" (404) at link 6513.tilda.ws/tilda/popup/ (from tilda.ws/project635029/tilda-blocks-2.7.js?t=1525158678)
+09:12:40	Error: 	"Not Found" (404) at link 6513.tilda.ws/page2732558.html (from 6513.tilda.ws/)
+09:12:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3832-3437-4735-a163-333463313737/-/resize/20x/D329.jpg (from 6513.tilda.ws/)
 
-HTTrack Website Copier/3.48-22 mirror complete in 43 seconds : 102 links scanned, 97 files written (7980433 bytes overall) [6518405 bytes received at 151590 bytes/sec], 1828788 bytes transferred using HTTP compression in 38 files, ratio 18%, 2.6 requests per connection
+HTTrack Website Copier/3.48-22 mirror complete in 35 seconds : 94 links scanned, 89 files written (6881639 bytes overall) [6357374 bytes received at 181639 bytes/sec], 729994 bytes transferred using HTTP compression in 30 files, ratio 23%, 3.7 requests per connection
 (2 errors, 2 warnings, 0 messages)
