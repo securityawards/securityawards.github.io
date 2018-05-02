@@ -1,0 +1,43 @@
+HTTrack3.48-22+htsswf+htsjava launched on Wed, 02 May 2018 16:29:00 at http://6513.tilda.ws/page2756076.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://6513.tilda.ws/page2756076.html -O1 "C:\My Web Sites\http___6513.tilda.ws_page2756076.html" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:29:12	Error: 	"Not Found" (404) at link 6513.tilda.ws/tilda/popup/ (from tilda.ws/project635029/tilda-blocks-2.7.js?t=1525271335)
+16:29:19	Error: 	"Not Found" (404) at link 6513.tilda.ws/page2732558.html (from 6513.tilda.ws/)
+16:29:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3566-6135-4936-a334-333033653161/-/resize/20x/0f4369628b4a471297e8.jpg (from 6513.tilda.ws/page2746166.html)
+16:29:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3566-6135-4936-a334-333033653161/-/resize/20x/0f4369628b4a471297e8.jpg (from 6513.tilda.ws/page2746166.html)
+16:29:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild6134-3039-4437-a633-656261633737/-/resize/20x/Artboard5.png (from 6513.tilda.ws/page2739665.html)
+16:29:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3565-6135-4637-b030-333531653433/1.png (from 6513.tilda.ws/page2739665.html)
+16:29:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3131-3834-4463-a565-363936666565/ImageHandler1.jpeg (from 6513.tilda.ws/page2739665.html)
+16:29:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild6135-3233-4836-a230-363061663065/ImageHandler.jpeg (from 6513.tilda.ws/page2739665.html)
+16:29:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3539-6633-4833-a565-343864653166/-/resize/20x/ImageHandler4.jpeg (from 6513.tilda.ws/page2739665.html)
+16:29:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild6430-6534-4263-b137-373135336331/Artboard2.png (from 6513.tilda.ws/page2739665.html)
+16:29:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild6664-6535-4130-b461-623236313639/ImageHandler3.jpeg (from 6513.tilda.ws/page2739665.html)
+16:29:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3137-3632-4735-b030-613432656132/Artboard3.png (from 6513.tilda.ws/page2739665.html)
+16:29:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3736-6330-4130-b434-363931346262/Artboard4.png (from 6513.tilda.ws/page2739665.html)
+16:29:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3431-3835-4461-a531-623162633862/-/resize/20x/Artboard12.png (from 6513.tilda.ws/page2739665.html)
+16:29:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild6538-6331-4234-b936-326164363437/-/resize/20x/Artboard16.png (from 6513.tilda.ws/page2739665.html)
+16:29:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3437-6636-4039-b037-633638303530/-/resize/20x/Artboard15.png (from 6513.tilda.ws/page2739665.html)
+16:29:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3630-3762-4461-b134-386565366562/Artboard17.png (from 6513.tilda.ws/page2739665.html)
+16:29:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3437-6636-4039-b037-633638303530/Artboard15.png (from 6513.tilda.ws/page2739665.html)
+16:29:56	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://static.tildacdn.com/tild3566-6135-4936-a334-333033653161/-/resize/20x/0f4369628b4a471297e8.jpg (from 6513.tilda.ws/page2746166.html)
+16:30:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild6337-6231-4936-b261-646437366535/-/empty/lock-active.jpg (from 6513.tilda.ws/page2741465.html)
+16:30:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild6134-3039-4437-a633-656261633737/-/resize/20x/Artboard5.png (from 6513.tilda.ws/page2739665.html)
+16:30:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3539-6633-4833-a565-343864653166/-/resize/20x/ImageHandler4.jpeg (from 6513.tilda.ws/page2739665.html)
+16:30:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild6430-6534-4263-b137-373135336331/Artboard2.png (from 6513.tilda.ws/page2739665.html)
+16:30:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3137-3632-4735-b030-613432656132/Artboard3.png (from 6513.tilda.ws/page2739665.html)
+16:30:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3736-6330-4130-b434-363931346262/Artboard4.png (from 6513.tilda.ws/page2739665.html)
+16:30:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3630-3762-4461-b134-386565366562/Artboard17.png (from 6513.tilda.ws/page2739665.html)
+16:30:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3437-6636-4039-b037-633638303530/Artboard15.png (from 6513.tilda.ws/page2739665.html)
+16:30:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild6337-6231-4936-b261-646437366535/-/empty/lock-active.jpg (from 6513.tilda.ws/page2741465.html)
+16:30:08	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://static.tildacdn.com/tild6134-3039-4437-a633-656261633737/-/resize/20x/Artboard5.png (from 6513.tilda.ws/page2739665.html)
+16:30:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://static.tildacdn.com/tild3630-3762-4461-b134-386565366562/Artboard17.png (from 6513.tilda.ws/page2739665.html)
+16:30:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://static.tildacdn.com/tild3437-6636-4039-b037-633638303530/Artboard15.png (from 6513.tilda.ws/page2739665.html)
+16:30:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://static.tildacdn.com/tild6337-6231-4936-b261-646437366535/-/empty/lock-active.jpg (from 6513.tilda.ws/page2741465.html)
+
+HTTrack Website Copier/3.48-22 mirror complete in 1 minutes 15 seconds : 124 links scanned, 91 files written (6548139 bytes overall), 41 files updated [1707779 bytes received at 22770 bytes/sec], 1107681 bytes transferred using HTTP compression in 18 files, ratio 15%, 2.1 requests per connection
+(7 errors, 25 warnings, 0 messages)
