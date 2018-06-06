@@ -1,11 +1,17 @@
+<<<<<<< HEAD
 HTTrack3.48-22+htsswf+htsjava launched on Wed, 06 Jun 2018 20:50:20 at http://6513.tilda.ws/page2756076.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 (winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://6513.tilda.ws/page2756076.html -O1 "C:\My Web Sites\http___6513.tilda.ws_page2756076.html" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+=======
+HTTrack3.48-22+htsswf+htsjava launched on Wed, 06 Jun 2018 15:39:49 at http://6513.tilda.ws/page2756076.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://6513.tilda.ws/page2756076.html -O1 "C:\My Web Sites\http___6513.tilda.ws_page2756076.html" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+>>>>>>> parent of f9e8940... qqa
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
+<<<<<<< HEAD
 20:50:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild6339-6133-4765-b638-316230313961/-/resize/20x/k00.jpg (from 6513.tilda.ws/page2756076.html)
 20:50:57	Error: 	"Not Found" (404) at link https://securityawards.github.io/images/a2.jpg (from 6513.tilda.ws/page2756076.html)
 20:50:57	Error: 	"Not Found" (404) at link https://securityawards.github.io/images/a6.jpg (from 6513.tilda.ws/page2756076.html)
@@ -23,3 +29,13 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 
 HTTrack Website Copier/3.48-22 mirror complete in 1 minutes 21 seconds : 134 links scanned, 119 files written (7456597 bytes overall) [6355911 bytes received at 78468 bytes/sec], 1505248 bytes transferred using HTTP compression in 40 files, ratio 20%, 3.9 requests per connection
 (8 errors, 6 warnings, 0 messages)
+=======
+15:43:46	Error: 	"Unable to rename file on disk" (-1) at link designerr.net/images/a2.jpg (from 6513.tilda.ws/page2756076.html)
+15:43:46	Warning: 	Retry after error -4 (Incorrect length (1397138 Bytes, 2324602 expected)) at link designerr.net/images/a6.jpg (from 6513.tilda.ws/page2756076.html)
+15:45:07	Warning: 	file not stored in cache due to bogus state (broken size, expected 3185128 got 2153184): designerr.net/images/a4.jpg
+15:45:07	Warning: 	Retry after error -4 (Incorrect length (2153184 Bytes, 3185128 expected)) at link designerr.net/images/a4.jpg (from 6513.tilda.ws/page2756076.html)
+15:45:07	Warning: 	Retry after error -4 (Incorrect length (1986676 Bytes, 3254496 expected)) at link designerr.net/images/a7.jpg (from 6513.tilda.ws/page2756076.html)
+15:45:17	Error: 	"Not Found" (404) at link 6513.tilda.ws/tilda/popup/ (from tilda.ws/project635029/tilda-blocks-2.7.js?t=1528292317)
+15:46:33	Warning: 	Retry after error -4 (Incorrect length (1374806 Bytes, 2324602 expected)) at link designerr.net/images/a6.jpg (from 6513.tilda.ws/page2756076.html)
+15:48:14	Warning: 	Retry after error -4 (Incorrect length (1517792 Bytes, 3185128 expected)) at link designerr.net/images/a4.jpg (from 6513.tilda.ws/page2756076.html)
+>>>>>>> parent of f9e8940... qqa
