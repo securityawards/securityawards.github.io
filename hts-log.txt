@@ -1,4 +1,4 @@
-HTTrack3.48-22+htsswf+htsjava launched on Mon, 04 Jun 2018 12:54:04 at http://6513.tilda.ws/page2756076.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+HTTrack3.48-22+htsswf+htsjava launched on Wed, 06 Jun 2018 15:39:49 at http://6513.tilda.ws/page2756076.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 (winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://6513.tilda.ws/page2756076.html -O1 "C:\My Web Sites\http___6513.tilda.ws_page2756076.html" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
@@ -6,33 +6,11 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-12:54:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild6361-6166-4733-b061-383437666635/-/resize/20x/f433.jpg (from 6513.tilda.ws/page2756076.html)
-12:54:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3365-3038-4663-b761-363464343435/-/resize/20x/ok7777777777.jpg (from 6513.tilda.ws/page2756076.html)
-12:54:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3138-3263-4231-a236-323164646638/-/resize/20x/y65.jpg (from 6513.tilda.ws/page2756076.html)
-12:54:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3030-6566-4365-b238-623933636134/-/resize/20x/popp.jpg (from 6513.tilda.ws/page2756076.html)
-12:54:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3864-3232-4231-b239-386462366539/-/resize/20x/454.jpg (from 6513.tilda.ws/page2756076.html)
-12:54:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3261-3862-4461-a564-366331336466/-/resize/20x/432.jpg (from 6513.tilda.ws/page2756076.html)
-12:54:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3365-6666-4165-b639-376465363934/-/resize/20x/T4443.jpg (from 6513.tilda.ws/page2756076.html)
-12:54:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3965-3563-4137-b663-623963636133/-/resize/20x/S22.jpg (from 6513.tilda.ws/page2756076.html)
-12:55:20	Warning: 	Moved Permanently for https://securityawards.github.io/images/a2.jpg
-12:55:20	Warning: 	Warning moved treated for https://securityawards.github.io/images/a2.jpg (real one is designerr.net/images/a2.jpg)
-12:55:21	Warning: 	Moved Permanently for https://securityawards.github.io/images/a6.jpg
-12:55:21	Warning: 	Warning moved treated for https://securityawards.github.io/images/a6.jpg (real one is designerr.net/images/a6.jpg)
-12:55:21	Warning: 	Moved Permanently for https://securityawards.github.io/images/a4.jpg
-12:55:21	Warning: 	Warning moved treated for https://securityawards.github.io/images/a4.jpg (real one is designerr.net/images/a4.jpg)
-12:55:27	Warning: 	Moved Permanently for https://securityawards.github.io/images/a7.jpg
-12:55:27	Warning: 	Warning moved treated for https://securityawards.github.io/images/a7.jpg (real one is designerr.net/images/a7.jpg)
-12:55:51	Warning: 	Moved Permanently for https://securityawards.github.io/images/a5.jpg
-12:55:51	Warning: 	Warning moved treated for https://securityawards.github.io/images/a5.jpg (real one is designerr.net/images/a5.jpg)
-12:55:51	Warning: 	Moved Permanently for https://securityawards.github.io/images/a1.jpg
-12:55:51	Warning: 	Warning moved treated for https://securityawards.github.io/images/a1.jpg (real one is designerr.net/images/a1.jpg)
-12:55:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/css/fonts-roboto.css (from tilda.ws/project635029/tilda-blocks-2.12.css?t=1528109539)
-12:55:53	Error: 	"Not Found" (404) at link 6513.tilda.ws/tilda/popup/ (from tilda.ws/project635029/tilda-blocks-2.7.js?t=1528109539)
-12:55:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3365-3038-4663-b761-363464343435/-/resize/20x/ok7777777777.jpg (from 6513.tilda.ws/page2756076.html)
-12:55:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3030-6566-4365-b238-623933636134/-/resize/20x/popp.jpg (from 6513.tilda.ws/page2756076.html)
-12:55:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3261-3862-4461-a564-366331336466/-/resize/20x/432.jpg (from 6513.tilda.ws/page2756076.html)
-12:55:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://static.tildacdn.com/tild3965-3563-4137-b663-623963636133/-/resize/20x/S22.jpg (from 6513.tilda.ws/page2756076.html)
-13:01:28	Error: 	"Not Found" (404) at link 6513.tilda.ws/page2732558.html (from 6513.tilda.ws/)
-13:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://static.tildacdn.com/tild3030-6566-4365-b238-623933636134/-/resize/20x/popp.jpg (from 6513.tilda.ws/page2756076.html)
-13:01:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://static.tildacdn.com/tild3965-3563-4137-b663-623963636133/-/resize/20x/S22.jpg (from 6513.tilda.ws/page2756076.html)
-13:02:20	Warning: 	Retry after error -4 (Incorrect length (1412296 Bytes, 2324602 expected)) at link designerr.net/images/a6.jpg (from designerr.net/images/a6.jpg)
+15:43:46	Error: 	"Unable to rename file on disk" (-1) at link designerr.net/images/a2.jpg (from 6513.tilda.ws/page2756076.html)
+15:43:46	Warning: 	Retry after error -4 (Incorrect length (1397138 Bytes, 2324602 expected)) at link designerr.net/images/a6.jpg (from 6513.tilda.ws/page2756076.html)
+15:45:07	Warning: 	file not stored in cache due to bogus state (broken size, expected 3185128 got 2153184): designerr.net/images/a4.jpg
+15:45:07	Warning: 	Retry after error -4 (Incorrect length (2153184 Bytes, 3185128 expected)) at link designerr.net/images/a4.jpg (from 6513.tilda.ws/page2756076.html)
+15:45:07	Warning: 	Retry after error -4 (Incorrect length (1986676 Bytes, 3254496 expected)) at link designerr.net/images/a7.jpg (from 6513.tilda.ws/page2756076.html)
+15:45:17	Error: 	"Not Found" (404) at link 6513.tilda.ws/tilda/popup/ (from tilda.ws/project635029/tilda-blocks-2.7.js?t=1528292317)
+15:46:33	Warning: 	Retry after error -4 (Incorrect length (1374806 Bytes, 2324602 expected)) at link designerr.net/images/a6.jpg (from 6513.tilda.ws/page2756076.html)
+15:48:14	Warning: 	Retry after error -4 (Incorrect length (1517792 Bytes, 3185128 expected)) at link designerr.net/images/a4.jpg (from 6513.tilda.ws/page2756076.html)
