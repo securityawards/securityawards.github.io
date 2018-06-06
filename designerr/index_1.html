@@ -85,11 +85,6 @@
                 </g>
             </symbol>
 
-            <symbol id="ei-close-icon" viewBox="0 0 50 50">
-                <path d="M37.304 11.282l1.414 1.414-26.022 26.02-1.414-1.413z"></path>
-                <path d="M12.696 11.282l26.022 26.02-1.414 1.415-26.022-26.02z"></path>
-            </symbol>
-
             <svg id="icon-close" viewBox="0 0 22 22">
                 <path d="M14 11l8-8V2c0-1 0 0 0 0l-2-2h-1l-8 8-8-8H2C1 0 2 0 2 0L0 2v1l8 8-8 8v1c0 1 0 0 0 0l2 2h1l8-8 8 8h1l2-2v-1l-8-8z"></path>
             </svg>
@@ -359,7 +354,7 @@
         <div class="input-area js-input-area is-empty">
             <div class="input-area__row">
                 <div class="input-area__input custom-scrollbar" style="position: relative; overflow: hidden;">
-                    <textarea class="chat-textarea js-chat-textarea js-autofocus-chat is-empty custom-scrollbar__recipient" placeholder="Message..." aria-label="Message..." spellcheck="true" style="width: calc(100% + 18px); margin-right: -18px; overflow-y: scroll;"></textarea>
+                    <textarea class="chat-textarea js-chat-textarea js-autofocus-chat is-empty custom-scrollbar__recipient" placeholder="Message..." aria-label="Message..." spellcheck="true" maxlength="4096" style="width: calc(100% + 18px); margin-right: -18px; overflow-y: scroll;"></textarea>
                 <div class="custom-scrollbar__caret" style=""><div class="custom-scrollbar__caret-inner"></div></div></div>
 
                 <div class="input-area__button-cell input-area__button-cell--rate is-hidden">
