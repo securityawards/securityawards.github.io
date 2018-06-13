@@ -1,0 +1,124 @@
+/************************************
+    File Name: colors.css
+    Template Name: Awards
+    Created By: Similar Icons
+    Envato Profile: http://themeforest.net/user/similaricons
+    Website: https://similaricons.com
+    Version: 1.0
+************************************/
+
+.demo_changer .demo-icon {
+    background-color: #3f51bb !important;
+    border-color: #3f51bb !important;
+    color: #ffffff !important;
+}
+.demo_changer .form_holder {
+    border-top-color: #3f51bb !important;
+}
+a,
+.color,
+.rating a:hover i,
+.rating a:focus i,
+.rating a.active i,
+.rating a:active i,
+.rating a:visited i,
+.breadcrumb > li a,
+.bb:hover .callout .lead,
+.bb:hover .callout h4,
+.bb:hover .callout h3 {
+    color: #3f51bb;
+}
+
+mark,
+.site-share li:hover,
+.progress-bar-custom,
+.corner-ribbon,
+.navbar-default .navbar-nav > li.submit:hover a,
+.navbar-default .navbar-nav > li.submit,
+.navbar-default .navbar-nav > li > a:before {
+    background-color: #3f51bb;
+}
+.site-tags li.active a,
+.btn-primary:active, 
+.btn-primary.active, 
+.open > .dropdown-toggle.btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled.focus,
+.btn-primary[disabled].focus,
+fieldset[disabled] .btn-primary.focus,
+.site-single-share .cat_list.site-cat a:hover {
+    background-color: #3f51bb !important;
+    border-color: #3f51bb !important;
+    color: #ffffff !important;
+}
+.pager li:hover > a,
+.pager li:hover > span,
+.like-button,
+.site-vote small,
+.single-site .site-tags .cat_list a:hover,
+.blog-tags .cat_list a:hover,
+.widget .cat_list a:hover,
+.pagination li:hover a,
+.pagination li:focus a,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus,
+.search-top .btn-group.open .dropdown-toggle:focus,
+.search-top .btn-default:hover,
+.search-top .btn-group.open .dropdown-toggle:hover,
+.search-top .btn-default:focus,
+.bb,
+.social-links li,
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-offical:focus,
+.btn-offical:hover {
+    background-color: #3f51bb;
+    border-color: #3f51bb;
+    color: #ffffff !important;
+}
+
+.header {
+    border-top-color: #3f51bb;
+}
+
+.form-control:focus,
+.footer li:hover a {
+    border-color: #3f51bb !important;
+}
+
+::-moz-selection {
+    color: #ffffff;
+    text-shadow: none;
+    background: #3f51bb;
+}
+
+::selection {
+    color: #ffffff;
+    text-shadow: none;
+    background: #3f51bb;
+}
+
+.bootstrap-select .form-control:focus {
+    border-color: #ffffff !important;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 902px) {
+    .navbar-default .navbar-nav > li.submit:hover a,
+    .navbar-default .navbar-nav > li.submit,
+    .navbar-default .navbar-nav > li > a:before,
+    .navbar-default .navbar-nav > li.submit a {
+        color: #212121;
+        padding: 0;
+        background-color: transparent !important;
+    }
+}

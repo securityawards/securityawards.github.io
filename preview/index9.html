@@ -1,0 +1,109 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="utf-8">
+<title>Designerr.net | Websites</title>
+
+<!-- Mobile Specific -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+<!-- CSS Style -->
+<link rel="stylesheet" href="style.css"> 
+
+<!-- Used Fonts -->
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel="stylesheet" type="text/css">
+
+<!-- JavaScript -->
+<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+
+<script >
+	var theme_list_open=false;
+		$(document).ready(function(){function e(){var e=$("#switcher")
+		.height();$("#iframe")
+		.attr("height",
+		$(window).height()-e+"px")}
+		IS_IPAD=navigator.userAgent.match(/iPad/i)!=null;
+		$(window).resize(function(){e()}).resize();
+			$("#theme_select").click(function(){if(theme_list_open==true){
+			$(".center ul li ul").hide();theme_list_open=false}else{
+			$(".center ul li ul").show();theme_list_open=true}return false});
+			$("#theme_list ul li a").click(function(){var e=$(this).attr("rel").split(",");
+			$("li.purchase a").attr("href",e[1]);
+			$("li.remove_frame a").attr("href",e[0]);
+			$("#iframe").attr("src",e[0]);
+			window.location.href = "?theme="+e[2]+""
+			$("li.close a").attr("src",e[0]);
+			$("#theme_list a#theme_select").text($(this).text());
+			$(".center ul li ul").hide();theme_list_open=false;return false});
+			$("#header-bar").hide();clicked="desktop";var t={desktop:"100%",tabletlandscape:1040,tabletportrait:788,mobilelandscape:500,mobileportrait:340,placebo:0};jQuery(".responsive a").on("click",function(){var e=jQuery(this);for(device in t){console.log(device);console.log(t[device]);if(e.hasClass(device)){clicked=device;jQuery("#iframe").width(t[device]);if(clicked==device){jQuery(".responsive a").removeClass("active");e.addClass("active")}}}return false});if(IS_IPAD){
+			$("#iframe").css("padding-bottom","60px")
+		}}
+	)
+</script>
+
+</head>
+
+<body>
+
+    <div id="switcher">
+		<div class="center">
+            <div class="logo">
+                <a href="http://designerr.net" title=""><img src="logo.png" alt="designerr.net" /></a>
+            </div>
+            				
+                <ul>
+                    <li id="theme_list"><a id="theme_select" href="#">
+					Samples</a>
+				<ul>
+				                   <li class="button_a">
+					<a href="index9.html">Samples<span style="background:black">PSD</span></a></li><li class="button_a">			   
+					<a href="index3.html">App <span style="background:black">PSD</span></a></li><li class="button_a">
+					<a href="index1.html">Ford GT <span style="background:black">PSD</span></a></li><li class="button_a">
+					<a href="index2.html">Seat <span style="background:black">PSD</span></a></li><li class="button_a">
+					<a href="index4.html">Headphones <span style="background:black">PSD</span></a></li><li class="button_a">
+					<a href="index5.html">Solar Panels <span style="background:black">PSD</span></a></li><li class="button_a">
+					<a href="index6.html">Honda <span style="background:black">PSD</span></a></li><li class="button_a">
+					<a href="index7.html">Headphones <span style="background:black">PSD</span></a></li><li class="button_a">
+					<a href="index8.html">Rental <span style="background:black">PSD</span></a></li><li class="button_a">
+					</ul>
+                    </li>	
+                   </ul>
+                <!-- <div class="responsive">
+                    <a href="#" class="desktop active" title="View Desktop Version"></a> 
+                    <a href="#" class="tabletlandscape" title="View Tablet Landscape (1024x768)"></a> 
+                 <a href="#" class="tabletportrait" title="View Tablet Portrait (768x1024)"></a> 
+                    <a href="#" class="mobilelandscape" title="View Mobile Landscape (480x320)"></a>
+                    <a href="#" class="mobileportrait" title="View Mobile Portrait (320x480)"></a>
+                </div> -->
+                                
+             <!--   <ul class="links">
+					                    <li class="purchase" rel="https://designerr.net">
+                    	<a href="https://designerr.net"><img src="images/purchase.png" alt="designerr.net" /> Free download</a>
+                    </li>					
+					                    <li class="close" rel="designerr.net">
+                    	<a href="http://fortune-creations.com/Zeel/ZeelEntrepreneur/"><img src="images/cross.png" alt="designerr.net" /> Close</a>
+                    </li>		
+                </ul> -->	
+        </div> 
+    </div>
+    <iframe id="iframe" src="web2/index.html" frameborder="0" width="100%"></iframe>
+
+    <!-- Place this tag after the last +1 button tag. -->
+    <script type="text/javascript">
+      (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = '../../apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+      })();
+    </script>
+
+</body>
+
+
+</html>
