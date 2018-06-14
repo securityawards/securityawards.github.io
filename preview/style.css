@@ -50,8 +50,6 @@ color: #fff;
 
 #switcher {
 	height: 59px;
-	padding-top:10px;
-	padding-bottom:10px;
     background:#1a1a1a;
 	border-bottom: 1px solid #353535;
 	z-index: 99999;
