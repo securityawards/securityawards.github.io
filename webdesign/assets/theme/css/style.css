@@ -424,3 +424,14 @@ nav .mbr-section-btn {
 	top: 0;
 	left: -2400px;
 }
+
+@media(min-width: 1921px){
+ html{
+  background: #f3f3f3;
+ }
+ body{
+  width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+ }
